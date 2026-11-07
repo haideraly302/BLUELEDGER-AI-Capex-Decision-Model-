@@ -1,6 +1,6 @@
 # BlueLedger AI
 
-A capex decision tool for farm machinery purchases — built for Hack the Harvest.
+A capex decision tool for farm machinery purchases, built for Hack the Harvest.
 Walks a farm manager through a purchase (price, import duty, shipping, workforce,
 training, running costs), auto-fills current Australian government rates
 (import duty, GST, RBA cash rate, term-deposit rate, Fair Work Award wage) via
