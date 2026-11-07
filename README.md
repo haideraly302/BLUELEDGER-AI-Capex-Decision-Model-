@@ -4,7 +4,7 @@ A capex decision tool for farm machinery purchases, built for Hack the Harvest.
 Walks a farm manager through a purchase (price, import duty, shipping, workforce,
 training, running costs), auto-fills current Australian government rates
 (import duty, GST, RBA cash rate, term-deposit rate, Fair Work Award wage) via
-a live web-search-enabled Claude call, then computes NPV, IRR, payback and a
+a live web-search-enabled call, then computes NPV, IRR, payback and a
 plain-English AI recommendation, including a comparison against just leaving
 the money in the bank.
 
