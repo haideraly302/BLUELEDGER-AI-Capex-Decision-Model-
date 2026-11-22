@@ -11,8 +11,8 @@ the money in the bank.
 ## 1. Get the code
 
 ```bash
-git clone https://github.com/<your-github-username>/blueledger-app.git
-cd blueledger-app
+git clone https://github.com/haideraly302/BLUELEDGER-AI-Capex-Decision-Model-.git
+cd BLUELEDGER-AI-Capex-Decision-Model-
 ```
 
 ## 2. Requirements
